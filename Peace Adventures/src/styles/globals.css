@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.react-player video {
+  position: absolute;
+  object-fit: cover;
+}
